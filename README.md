@@ -26,4 +26,4 @@ https://speakerdeck.com/hakobe/qi-yue-niyorushe-ji-falseshao-jie?slide=24
 
 https://speakerdeck.com/nrslib/introduction-to-web-application-design
 
-
+https://qiita.com/ok2/items/04086f7ee7bde6ab57b9
